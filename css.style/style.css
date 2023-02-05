@@ -84,3 +84,12 @@ body{
     background: transparent;
     color: #333;
 }
+
+ @media only screen and (max-width:400px)  {
+    .quote-box{
+        width: 500px;
+        background: #fff;
+        margin-left: 20px;
+
+    }
+}
